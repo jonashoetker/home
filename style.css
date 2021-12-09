@@ -1,0 +1,40 @@
+/*
+.Bild1 {
+    margin-left: 100px;
+    margin-top: 25px;
+    margin-right:425px;
+    margin-bottom: 25;
+}
+.Bild2 {
+    margin-left: -600px;
+    margin-top: 25px;
+    margin-bottom: 25;
+    
+    
+}
+.Bild3 {
+   margin-right: 50px;
+   margin-left: 450px;
+   text-align: center;
+
+}
+*/
+
+#features{
+    background-color: white;
+    margin-top: -150px;
+    padding-top: 50px;
+    text-align: center;
+    
+    
+}
+#features2{
+    text-align:center;
+    padding-top: 50px;
+}
+
+#features3{
+    margin-top: 150px;
+    margin-right: -86px;
+}
+
